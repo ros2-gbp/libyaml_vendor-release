@@ -1,1 +1,1 @@
-{"base": "b5299e115561", "parent": "release/rolling/libyaml_vendor/1.8.1-2", "previous": "3e57cc6795f7", "trim": "", "trimbase": ""}
+{"base": "b00072c", "parent": "release/rolling/libyaml_vendor", "previous": "d837d83", "trim": "", "trimbase": ""}
